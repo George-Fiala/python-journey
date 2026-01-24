@@ -1,0 +1,3 @@
+id,date_found,machine,location,severity,status,due_date,work_order,date_fixed,notes
+1,2025-11-23,Emba 1,feeder,HIGH,OPEN,2025-11-25,1088,,
+2,2025-11-23,Bobat 2,strapper,MEDIUM,OPEN,2025-11-30,108,,

@@ -1,0 +1,13 @@
+list = []
+# 1) přidej 3 jména přes append
+list.append("Jirka")
+list.append("Lucka")
+list.append("Kaja")
+
+# 2) přidej jedno jméno na začátek přes insert
+list.insert(0, "Kata")
+
+# 3) smaž poslední přes del -1
+del list[-1]
+# 4) vypiš seznam a jeho délku
+print(list, len(list))

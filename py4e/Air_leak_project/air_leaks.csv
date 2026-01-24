@@ -1,0 +1,4 @@
+id,date_found,machine,location,severity,status,due_date,work_order,date_fixed,notes
+1,2025-11-16,Bobst 1,Strapper,HIGH,CLOSED,2025-11-18,9435,2025-11-16,Leak afecting production its a priority
+2,2025-11-16,Emba 5,palletiser,MEDIUM,CLOSED,2025-11-10,,2025-11-16,
+3,2025-11-16,Emba 1,styrapprt,LOW,OPEN,2025-11-14,8756,,

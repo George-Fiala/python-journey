@@ -1,0 +1,1 @@
+print("Ahoj, jsem Jiri a makam na sve nove kariere!")
