@@ -1,5 +1,3 @@
-
-
 def safe_index(data, target):
     for i in range(len(data)):
         if data[i] == target:
