@@ -67,8 +67,8 @@ SHEARD_DELIVER_TO = [
 ]
 
 CONTACT_NAME = "George Fiala"
-CONTACT_EMAIL = "fialajir84@gmail.com"
-CONTACT_PHONE = "07842 104144"
+CONTACT_EMAIL = "jklcxcv@gmail.com"
+CONTACT_PHONE = "07842 11111"
 
 
 # ========= INPUT HELPERS =========
