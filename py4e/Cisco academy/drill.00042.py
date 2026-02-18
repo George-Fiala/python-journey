@@ -86,8 +86,8 @@ def main():
     
     for i in indexes:
         print(f"Indexes: {i}, Value: {data[i]}")
-        print(f"All indexes: {indexes}")
-        print(f"Count of matches: {len(indexes)}")
+    print(f"All indexes: {indexes}")
+    print(f"Count of matches: {len(indexes)}")
 
 if __name__ == "__main__":
     main()
