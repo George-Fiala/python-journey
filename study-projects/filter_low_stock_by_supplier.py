@@ -6,11 +6,11 @@ parts = [
     {"part_code": "FLT005", "supplier": "RS", "description": "Filter", "current_stock": 10, "minimum_stock": 6}
 ]
 
-search_supplier = input("Enter supplier: ")
+search_supplier = input("Enter supplier: ").strip().lower()
 found = False
 
 for part in parts:
-    supplier = part["supplier"]
+    supplier = part["supplier"].strip().lower()
     current_stock = part["current_stock"]
     minimum_stock = part["minimum_stock"]
     part_code = part["part_code"]
