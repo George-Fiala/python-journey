@@ -33,7 +33,7 @@ for part in parts:
 print(f"Complete price: £{all_parts_added_price:.2f}")
 print(f"High value part count: {high_value_count}")
 
-average_part_value = all_parts_added_price / len(parts)
+average_part_value = all_parts_added_price / total_parts
 print(f"Average part price: £{average_part_value:.2f}")
 
 high_value_percentage = high_value_count / total_parts * 100

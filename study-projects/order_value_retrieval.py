@@ -41,4 +41,4 @@ percentage_of_high_value = high_value_po_count / order_count * 100
 print(f"Total value of all orders: £{total_price:.2f}")
 print(f"Average order value: £{average_order_value:.2f}")
 print(f"High value orders count: {high_value_po_count}")
-print(f"Percentage of high value orders: {percentage_of_high_value}%")
+print(f"Percentage of high value orders: {percentage_of_high_value:.2f}%")
