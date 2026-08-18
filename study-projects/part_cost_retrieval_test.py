@@ -24,5 +24,5 @@ for part in parts:
     part_name = part["part_name"]
     print(f"{part_name} - £{full_price:.2f} - {part_value}")
     if part_value == "Expensive":
-            expensive_parts_count += 1
-print(f"Expensice parts count : {expensive_parts_count}")
+        expensive_parts_count += 1
+print(f"Expensive parts count : {expensive_parts_count}")
