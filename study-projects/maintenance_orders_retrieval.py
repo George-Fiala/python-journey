@@ -12,7 +12,6 @@ def get_overall_order_price(order):
 
 
 def get_part_status(overall_order_price, urgent):
-    urgent = order["urgent"]
     if overall_order_price >= 500 and urgent:
         return "Priority"
     return "Normal"
